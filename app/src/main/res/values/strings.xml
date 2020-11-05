@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Material</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Red</string>
+    <string name="title_dashboard">Blue</string>
+    <string name="blue">Blue</string>
+    <string name="material_button">Material Button</string>
+    <string name="switch_material">Switch Material</string>
+    <string name="red">Red</string>
 </resources>
