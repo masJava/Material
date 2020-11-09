@@ -27,5 +27,15 @@
     <color name="redSecondaryTextColor">#ffffff</color>
 
 
+    <color name="text_input_box_stroke">
+        <selector xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:color="#80e27e" android:state_focused="true"/>
+            <item android:color="#087f23" android:state_hovered="true"/>
+            <item android:color="#4ebaaa"/>
+        </selector>
+    </color>
+
+
+
 
 </resources>
