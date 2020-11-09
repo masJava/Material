@@ -17,15 +17,14 @@
         android:textSize="20sp" />
 
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/action_mode_close_button"
+        android:id="@+id/blue_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
         android:layout_marginBottom="50dp"
         android:elevation="20dp"
         android:text="@string/material_button"
-        android:textAllCaps="false"
-        tools:targetApi="lollipop" />
+        android:textAllCaps="false" />
 
     <com.google.android.material.switchmaterial.SwitchMaterial
         android:id="@+id/switchMaterial"

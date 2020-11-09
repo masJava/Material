@@ -43,4 +43,10 @@
         <item name="android:statusBarColor" tools:targetApi="lollipop">@color/redPrimaryDarkColor</item>
         <!-- Customize your theme here. -->
     </style>
+    
+    <style name="TextInpLayout" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="helperTextTextColor">@color/bluePrimaryColor</item>
+        <item name="boxStrokeColor">@color/redSecondaryColor</item>
+    </style>
+
 </resources>
