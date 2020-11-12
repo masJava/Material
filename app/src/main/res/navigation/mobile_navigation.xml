@@ -7,14 +7,14 @@
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.mas.material.ui.home.HomeFragment"
-        android:label="@string/title_home"
-        tools:layout="@layout/fragment_home" />
+        android:name="com.mas.material.ui.gallery.GalleryFragment"
+        android:label="@string/title_gallery"
+        tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.mas.material.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:name="com.mas.material.ui.style.StyleFragment"
+        android:label="@string/title_style"
+        tools:layout="@layout/fragment_style" />
 
 </navigation>
